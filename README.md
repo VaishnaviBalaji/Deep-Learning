@@ -8,3 +8,4 @@ Goal is to train a deep neural network which can take 64x64 image with a cell nu
 4. Connective fibroblast cells 
 
 *Still in process
+Dataset https://www.kaggle.com/c/deep-learning-for-msc-coursework-2021
